@@ -1,4 +1,7 @@
-# 👋 Hi, I'm Shubham Suryawanshi
+<p align="center">
+  <img src="./qa-hero.svg" alt="Shubham Suryawanshi — Software Test Engineer" width="100%">
+</p># 
+👋 Hi, I'm Shubham Suryawanshi
 
 ## 🧪 Software Test Engineer
 
