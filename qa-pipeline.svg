@@ -1,0 +1,21 @@
+<svg width="1100" height="250" viewBox="0 0 1100 250" xmlns="http://www.w3.org/2000/svg">
+<defs><linearGradient id="line" x1="0" x2="1"><stop stop-color="#22D3EE"/><stop offset="1" stop-color="#60A5FA"/></linearGradient></defs>
+<rect width="1100" height="250" rx="26" fill="#070B14" stroke="#1E293B"/>
+<text x="42" y="42" fill="#94A3B8" font-family="monospace" font-size="14" letter-spacing="3">QUALITY ENGINEERING PIPELINE</text>
+<g font-family="Arial" text-anchor="middle">
+<g fill="#0B1220" stroke="#334155">
+<rect x="28" y="88" width="140" height="82" rx="16"/><rect x="190" y="88" width="140" height="82" rx="16"/>
+<rect x="352" y="88" width="140" height="82" rx="16"/><rect x="514" y="88" width="140" height="82" rx="16"/>
+<rect x="676" y="88" width="140" height="82" rx="16"/><rect x="838" y="88" width="234" height="82" rx="16"/>
+</g>
+<g fill="#E2E8F0" font-size="14">
+<text x="98" y="119">REQUIREMENTS</text><text x="260" y="119">TEST DESIGN</text><text x="422" y="119">AUTOMATION</text>
+<text x="584" y="119">API + SQL</text><text x="746" y="119">REGRESSION</text><text x="955" y="119">REPORT → RELEASE</text>
+</g>
+<g fill="#64748B" font-family="monospace" font-size="11">
+<text x="98" y="145">RISK</text><text x="260" y="145">SCENARIOS</text><text x="422" y="145">UI / BDD</text>
+<text x="584" y="145">VALIDATE</text><text x="746" y="145">CI / CD</text><text x="955" y="145">QUALITY GATE</text>
+</g></g>
+<path d="M168 129H190M330 129H352M492 129H514M654 129H676M816 129H838" stroke="url(#line)" stroke-width="3"/>
+<circle r="6" fill="#22D3EE"><animateMotion dur="3.6s" repeatCount="indefinite" path="M168 129H190M330 129H352M492 129H514M654 129H676M816 129H838"/></circle>
+</svg>
