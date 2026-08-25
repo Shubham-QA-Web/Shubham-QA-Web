@@ -19,7 +19,7 @@
 
 ## 👋 About Me
 
-I'm a Software Test Engineer specializing in banking and financial applications, with experience across manual testing, UI automation, API validation, database testing and end-to-end quality engineering**.
+**I'm a Software Test Engineer specializing in banking and financial applications, with experience across manual testing, UI automation, API validation, database testing and end-to-end quality engineering**.
 
 My approach is simple:
 
@@ -42,7 +42,7 @@ My approach is simple:
 
 <img src="./qa-pipeline.svg" alt="QA Engineering Pipeline" width="100%"/>
 
-Requirement → Testing → Automation → API + SQL → Regression → Defect → Release
+
 
 ## 🪪 QA ENGINEER ID CARD
 
