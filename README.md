@@ -136,8 +136,6 @@ Manual validation   Automation
 
 ## 📊 GitHub Activity
 
-## 📊 GitHub Activity
-
 <div align="center">
 
 <img src="./profile/stats.svg" alt="GitHub Statistics" height="165"/>
