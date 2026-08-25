@@ -61,6 +61,10 @@ The animated ID card uses the profile image supplied for this portfolio.
 Domain: Banking → Trade Finance
 **Testing Focus: Manual, Functional, System, Integration, Regression, Sanity, UAT, SWIFT message validation, compliance and regulatory checks.**
 
+[Trade Finance QA Portfolio — Manual Testing Project →](https://github.com/Shubham-QA-Web/Trade-Finance-Manual-Qa)
+
+---
+
 ### 🏦 FinCore — Loan Origination Quality Engineering
 
 A complete QA portfolio covering the software testing lifecycle:
