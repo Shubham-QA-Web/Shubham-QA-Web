@@ -138,8 +138,7 @@ Manual validation   Automation
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Shubham-QA-Web&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubham-QA-Web&layout=compact&hide_border=true&theme=transparent" height="165"/>
+<img src="./qa-activity.svg" alt="GitHub Activity" width="100%"/>
 
 </div>
 ---
