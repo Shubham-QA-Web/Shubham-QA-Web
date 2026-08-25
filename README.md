@@ -55,6 +55,12 @@ The animated ID card uses the profile image supplied for this portfolio.
 
 ## 🚀 Featured QA Work
 
+
+### 🏦 Trade Finance QA Portfolio — Manual Testing Project
+
+Domain: Banking → Trade Finance
+**Testing Focus: Manual, Functional, System, Integration, Regression, Sanity, UAT, SWIFT message validation, compliance and regulatory checks.**
+
 ### 🏦 FinCore — Loan Origination Quality Engineering
 
 A complete QA portfolio covering the software testing lifecycle:
