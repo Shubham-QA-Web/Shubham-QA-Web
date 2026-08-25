@@ -2,7 +2,7 @@
 
 <img src="./qa-hero.svg" alt="Shubham Suryawanshi — Software Test Engineer" width="100%"/>
 
-### 🧪 SOFTWARE TEST ENGINEER · QA AUTOMATION · SDET
+### 🧪 SOFTWARE TEST ENGINEER · QA AUTOMATION · AUTOMATION
 
 **Finding defects early. Automating the repeatable. Protecting product quality.**
 
