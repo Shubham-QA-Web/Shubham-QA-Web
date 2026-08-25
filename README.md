@@ -138,7 +138,7 @@ Manual validation   Automation
 
 <div align="center">
 
-<img src="./qa-activity.svg" alt="GitHub Activity" width="100%"/>
+<img src="./qa-activity.svg" alt="QA Engineering Activity" width="100%"/>
 
 </div>
 ---
