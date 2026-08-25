@@ -1,0 +1,42 @@
+<svg width="330" height="420" viewBox="0 0 330 420" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="cardGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#151a3d"/>
+      <stop offset="100%" stop-color="#0a0e27"/>
+    </linearGradient>
+    <linearGradient id="stripeGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#f4c430"/>
+      <stop offset="100%" stop-color="#ff9d3d"/>
+    </linearGradient>
+  </defs>
+
+  <g>
+    <animateTransform attributeName="transform" type="rotate" values="-4 165 40; 4 165 40; -4 165 40" dur="3.2s" repeatCount="indefinite"/>
+
+    <!-- lanyard strap -->
+    <rect x="150" y="0" width="30" height="150" fill="url(#stripeGrad)"/>
+    <rect x="160" y="0" width="10" height="150" fill="#0a0e27" opacity="0.35"/>
+    <circle cx="165" cy="8" r="9" fill="#e6ecf3" stroke="#0a0e27" stroke-width="2"/>
+
+    <!-- clip -->
+    <rect x="150" y="145" width="30" height="22" rx="4" fill="#c2cbd6"/>
+    <circle cx="165" cy="167" r="7" fill="#c2cbd6"/>
+
+    <!-- ID card -->
+    <g transform="translate(15,165)">
+      <rect x="0" y="0" width="300" height="240" rx="18" fill="url(#cardGrad)" stroke="#f4c430" stroke-width="2"/>
+      <rect x="0" y="0" width="300" height="46" rx="18" fill="url(#stripeGrad)"/>
+      <text x="150" y="30" font-family="Verdana, sans-serif" font-size="16" font-weight="bold" fill="#151a3d" text-anchor="middle">LEAF VILLAGE QA CORPS</text>
+
+      <!-- avatar circle -->
+      <circle cx="150" cy="110" r="46" fill="#0a0e27" stroke="#4fc3f7" stroke-width="3"/>
+      <text x="150" y="122" font-family="Verdana, sans-serif" font-size="34" text-anchor="middle">🍃</text>
+
+      <text x="150" y="176" font-family="Verdana, sans-serif" font-size="15" font-weight="bold" fill="#ffe28a" text-anchor="middle">Shubham Suryawanshi</text>
+      <text x="150" y="200" font-family="Verdana, sans-serif" font-size="13" fill="#9fd8ff" text-anchor="middle">Software Test Engineer</text>
+
+      <rect x="20" y="214" width="260" height="1" fill="#2a3160"/>
+      <text x="150" y="232" font-family="Verdana, sans-serif" font-size="11" fill="#8892b0" text-anchor="middle">Rank: Jonin · Squad: Automation</text>
+    </g>
+  </g>
+</svg>
